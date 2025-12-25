@@ -1,0 +1,2 @@
+farasa==0.0.1
+pyarabic==0.6.15
